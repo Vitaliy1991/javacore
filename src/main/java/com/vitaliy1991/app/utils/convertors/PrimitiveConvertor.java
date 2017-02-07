@@ -8,21 +8,15 @@ public class PrimitiveConvertor {
     char myChar;
     int myInt;*/
 
-    public void floatToChar(float myFloat){
-        char myChar = (char) myFloat;
-        System.out.println("Input float value is "+ myFloat + ". Output char value is " + myChar);
-        //return (char) myFloat;
+    public char floatToChar(float myFloat){
+        return (char) myFloat;
     }
 
-    public void intToChar(int myInt){
-        char myChar = (char) myInt;
-        System.out.println("Input int value is "+ myInt + ". Output char value is " + myChar);
-        //return (char) myInt;
+    public char intToChar(int myInt){
+        return (char) myInt;
     }
 
-    public void charToInt(char myChar){
-        int myInt = (int) myChar;
-        System.out.println("Input char value is "+ myChar + ". Output int value is " + myInt);
-        //return (int) myChar;
+    public int charToInt(char myChar){
+        return (int) myChar;
     }
 }

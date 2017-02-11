@@ -1,4 +1,4 @@
-package com.vitaliy1991.app;
+package com.vitaliy1991.app.Classwork.lesson2;
 
 /**
  * Hello world!

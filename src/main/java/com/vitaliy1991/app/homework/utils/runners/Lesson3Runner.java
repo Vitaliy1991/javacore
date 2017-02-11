@@ -1,11 +1,11 @@
-package com.vitaliy1991.app.utils.runners;
+package com.vitaliy1991.app.homework.utils.runners;
 
-import com.vitaliy1991.app.utils.convertors.PrimitiveConvertor;
+import com.vitaliy1991.app.homework.utils.convertors.PrimitiveConvertor;
 
 /**
  * Created by vitor on 02-Feb-17.
  */
-public class Lesson3Runner {
+/*public class Lesson3Runner {
     public static void main(String[] args) {
         float myFloat = 120.0f;
         int myInt = 100;
@@ -18,4 +18,4 @@ public class Lesson3Runner {
         System.out.println("Input char value is "+ myChar + ". Output int value is " + convertor1.charToInt(myChar));
     }
 
-}
+}*/

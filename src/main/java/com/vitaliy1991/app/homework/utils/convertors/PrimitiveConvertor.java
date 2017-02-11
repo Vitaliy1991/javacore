@@ -1,12 +1,9 @@
-package com.vitaliy1991.app.utils.convertors;
+package com.vitaliy1991.app.homework.utils.convertors;
 
 /**
  * Created by vitor on 02-Feb-17.
  */
 public class PrimitiveConvertor {
-    /*float myFloat;
-    char myChar;
-    int myInt;*/
 
     public char floatToChar(float myFloat){
         return (char) myFloat;

@@ -1,4 +1,4 @@
-package com.vitaliy1991.app;
+package com.vitaliy1991.app.Classwork.lesson2;
 
 /**
  * Created by vitor on 31-Jan-17.

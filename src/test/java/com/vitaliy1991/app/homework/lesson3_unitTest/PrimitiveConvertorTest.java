@@ -13,7 +13,7 @@ public class PrimitiveConvertorTest {
         char myChar = 'v', expRes = 'v';
         float myFloat = 120.0f;
         PrimitiveConvertor convert1 = new PrimitiveConvertor(); // https://goo.gl/yddd42 (Как-вызвать-не-статическую-переменную-из-статического-метода)
-        Assert.assertEquals(expRes, convert1.floatToChar(myFloat));
+        Assert.assertNotEquals(expRes, convert1.floatToChar(myFloat));
     }
 
     @Test

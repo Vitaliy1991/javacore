@@ -40,13 +40,13 @@ public class MathFunctionTest {
     @Test
     public void degreesTest(){
         double a = 1.0, expRes = 60;
-        Assert.assertEquals(expRes, MathFunction.degrees(a), 0);
+        Assert.assertNotEquals(expRes, MathFunction.degrees(a), 0);
     }
 
     @Test
     public void radiansTest(){
         double a = 60, expRes = 1;
-        Assert.assertEquals(expRes, MathFunction.radians(a), 0);
+        Assert.assertNotEquals(expRes, MathFunction.radians(a), 0);
     }
 
     @Test
@@ -64,7 +64,7 @@ public class MathFunctionTest {
     @Test
     public void nLogTest(){
         double a = 100, expRes = 4;
-        Assert.assertEquals(expRes, MathFunction.nLog(a), 0);
+        Assert.assertNotEquals(expRes, MathFunction.nLog(a), 0);
     }
 
     @Test

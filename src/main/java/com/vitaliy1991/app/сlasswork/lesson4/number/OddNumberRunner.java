@@ -1,4 +1,4 @@
-package com.vitaliy1991.app.Classwork.lesson4.number;
+package com.vitaliy1991.app.сlasswork.lesson4.number;
 
 import java.util.Scanner;
 

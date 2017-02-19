@@ -1,9 +1,8 @@
 package com.vitaliy1991.app.homework.lesson4;
 
-import com.sun.xml.internal.ws.handler.SOAPMessageContextImpl;
-import com.vitaliy1991.app.Classwork.lesson4.biggerNumber.BiggerNumber;
-import com.vitaliy1991.app.Classwork.lesson4.circleArea.CircleArea;
-import com.vitaliy1991.app.Classwork.lesson4.triangle.myCheck.TriangleAngel;
+import com.vitaliy1991.app.сlasswork.lesson4.biggerNumber.BiggerNumber;
+import com.vitaliy1991.app.сlasswork.lesson4.circleArea.CircleArea;
+import com.vitaliy1991.app.сlasswork.lesson4.triangle.myCheck.TriangleAngel;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

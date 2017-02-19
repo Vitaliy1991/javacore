@@ -1,6 +1,4 @@
-package com.vitaliy1991.app.Classwork.lesson4.triangle.triangleClasswork;
-
-import com.vitaliy1991.app.Classwork.lesson4.triangle.myCheck.TriangleAngel;
+package com.vitaliy1991.app.сlasswork.lesson4.triangle.triangleClasswork;
 
 import java.util.Scanner;
 

@@ -1,6 +1,4 @@
-package com.vitaliy1991.app.Classwork.lesson4.triangle.triangleClasswork;
-
-import java.util.Scanner;
+package com.vitaliy1991.app.сlasswork.lesson4.triangle.triangleClasswork;
 
 /**
  * Created by vitor on 16-Feb-17.

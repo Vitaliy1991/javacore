@@ -1,4 +1,4 @@
-package com.vitaliy1991.app.Classwork.lesson3.Unit_test_classwork;
+package com.vitaliy1991.app.сlasswork.lesson3.Unit_test_classwork;
 
 /**
  * Created by vitor on 09-Feb-17.

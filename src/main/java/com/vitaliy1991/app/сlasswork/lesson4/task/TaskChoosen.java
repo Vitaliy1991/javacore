@@ -1,10 +1,8 @@
-package com.vitaliy1991.app.Classwork.lesson4.task;
+package com.vitaliy1991.app.сlasswork.lesson4.task;
 
-import com.vitaliy1991.app.Classwork.lesson4.biggerNumber.BiggerNumber;
-import com.vitaliy1991.app.Classwork.lesson4.circleArea.CircleArea;
-import com.vitaliy1991.app.Classwork.lesson4.triangle.myCheck.TriangleAngel;
-import com.vitaliy1991.app.Classwork.lesson4.triangle.triangleClasswork.RightAngledRunner;
-import com.vitaliy1991.app.Classwork.lesson4.triangle.triangleClasswork.RightAngledTriangle;
+import com.vitaliy1991.app.сlasswork.lesson4.biggerNumber.BiggerNumber;
+import com.vitaliy1991.app.сlasswork.lesson4.circleArea.CircleArea;
+import com.vitaliy1991.app.сlasswork.lesson4.triangle.myCheck.TriangleAngel;
 
 import java.util.Scanner;
 

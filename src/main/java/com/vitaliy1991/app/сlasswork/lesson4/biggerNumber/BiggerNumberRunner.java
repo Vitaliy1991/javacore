@@ -1,4 +1,4 @@
-package com.vitaliy1991.app.Classwork.lesson4.biggerNumber;
+package com.vitaliy1991.app.сlasswork.lesson4.biggerNumber;
 
 /**
  * Created by vitor on 19-Feb-17.

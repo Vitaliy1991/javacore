@@ -1,6 +1,5 @@
 package com.vitaliy1991.app.homework.lesson3_unitTest;
 
-import com.vitaliy1991.app.Classwork.lesson3.Unit_test_classwork.MathFunc;
 import org.junit.Assert;
 import org.junit.Test;
 

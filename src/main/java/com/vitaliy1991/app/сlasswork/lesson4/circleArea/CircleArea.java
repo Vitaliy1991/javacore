@@ -1,4 +1,4 @@
-package com.vitaliy1991.app.Classwork.lesson4.circleArea;
+package com.vitaliy1991.app.сlasswork.lesson4.circleArea;
 
 import java.util.Scanner;
 

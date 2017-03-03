@@ -1,12 +1,22 @@
 package com.vitaliy1991.app.homework.lesson3_unitTest;
 
+import com.vitaliy1991.app.classwork.lesson3.Unit_test_classwork.MathFunc;
 import org.junit.Assert;
+import org.junit.Before;
+import org.junit.BeforeClass;
 import org.junit.Test;
 
 /**
  * Created by vitor on 11-Feb-17.
  */
 public class MathFunctionTest {
+    MathFunction mathematicFunc;
+
+    @Before
+    public void setUp(){
+        mathematicFunc = new MathFunction();
+    }
+
     @Test
     public void moduleTest(){
         int a = -15, expRes = 15;

@@ -1,4 +1,4 @@
-package com.vitaliy1991.runners.lesson6;
+package com.vitaliy1991.runners.classwork.lesson6;
 
 import java.util.Scanner;
 

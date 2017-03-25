@@ -1,4 +1,4 @@
-package com.vitaliy1991.runners.utils;
+package com.vitaliy1991.runners.homework.utils;
 
 /**
  * Created by vitor on 02-Feb-17.

@@ -1,4 +1,4 @@
-package com.vitaliy1991.runners.lesson4;
+package com.vitaliy1991.runners.classwork.lesson4;
 
 import com.vitaliy1991.app.classwork.lesson4.biggerNumber.BiggerNumber;
 

@@ -1,4 +1,4 @@
-package com.vitaliy1991.runners.lesson2;
+package com.vitaliy1991.runners.classwork.lesson2;
 
 import com.vitaliy1991.app.classwork.lesson2.NarrowingCasting;
 import com.vitaliy1991.app.classwork.lesson2.WideningCasting;

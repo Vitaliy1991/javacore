@@ -1,9 +1,10 @@
-package com.vitaliy1991.runners.lesson4;
+package com.vitaliy1991.runners.homework.lesson4;
 
-import com.vitaliy1991.app.classwork.lesson4.biggerNumber.BiggerNumber;
-import com.vitaliy1991.app.classwork.lesson4.circleArea.CircleArea;
-import com.vitaliy1991.app.classwork.lesson4.task.TaskChoosen;
 import com.vitaliy1991.app.homework.lesson4.Menu;
+import com.vitaliy1991.runners.classwork.lesson4.BiggerNumberRunner;
+import com.vitaliy1991.runners.classwork.lesson4.CircleAreaRunner;
+import com.vitaliy1991.runners.classwork.lesson4.OddNumberRunner;
+import com.vitaliy1991.runners.classwork.lesson4.RightAngledRunner;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

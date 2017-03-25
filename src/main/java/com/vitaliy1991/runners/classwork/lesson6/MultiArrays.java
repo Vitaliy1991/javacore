@@ -1,4 +1,4 @@
-package com.vitaliy1991.runners.lesson6;
+package com.vitaliy1991.runners.classwork.lesson6;
 
 /**
  * Created by vitor on 24-Mar-17.

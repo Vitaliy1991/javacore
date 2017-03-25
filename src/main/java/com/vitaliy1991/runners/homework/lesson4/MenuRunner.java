@@ -20,7 +20,7 @@ public class MenuRunner {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Please choose one menu number from the list above: ");
         try {
-            double menu = scanner.nextInt();
+            double menu = scanner.nextDouble();
             Menu calculate = new Menu();
             boolean result1 = calculate.runner1(menu);
             boolean result2 = calculate.runner2(menu);

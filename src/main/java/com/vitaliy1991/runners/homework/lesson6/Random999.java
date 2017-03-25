@@ -21,7 +21,7 @@ public class Random999 {
             }
             if (intArray[i] < min) {
                 min = intArray[i];
-        }
+            }
         }
         System.out.println(" ");
         System.out.println("Max: " + max);

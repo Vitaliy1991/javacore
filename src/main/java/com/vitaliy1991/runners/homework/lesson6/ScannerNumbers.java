@@ -10,7 +10,8 @@ import java.io.InputStreamReader;
 public class ScannerNumbers {
     public static void main(String[] args) throws IOException {
         int sum = 0;
-        System.out.println("Please enter number; put Enter to continue; enter Exit to stop");
+        System.out.println("You can enter set of numbers and get sum in the end; To stop, please enter \"Exit\"");
+        System.out.println(" ");
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         while(true){
             System.out.print("Please enter number: ");

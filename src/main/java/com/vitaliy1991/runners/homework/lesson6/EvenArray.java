@@ -5,7 +5,11 @@ package com.vitaliy1991.runners.homework.lesson6;
  */
 public class EvenArray {
     public static void main(String[] args) {
-        int[] intArray = new int[10];
+        int a = 0;
+        for (int i = 2; i<=20; i++){
+            if (i%2==0){a++;}
+        }
+        int[] intArray = new int[a];
         for (int i = 0, k = 2; i < intArray.length; i++, k += 2){
            intArray[i] = k;
         System.out.print(intArray[i] + " ");

@@ -10,6 +10,7 @@ public class MultiArrays {
             for (int k=0; k<intArray[j].length; k++){
                 intArray[j][k] = j*k;
                 System.out.print(intArray[j][k]);
+                System.out.print(" ");
             }
         }
     }

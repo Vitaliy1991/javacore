@@ -5,7 +5,7 @@ package com.vitaliy1991.runners.classwork.lesson6;
  */
 public class New {
     public static void main(String[] args) {
-        int a = 1;
+        int a = 0;
         a = a++ + a + ++a;
         System.out.print(a);
     }

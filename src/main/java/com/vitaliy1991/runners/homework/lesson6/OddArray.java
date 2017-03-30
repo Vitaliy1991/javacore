@@ -18,7 +18,7 @@ public class OddArray {
 
         System.out.println(" ");
 
-        for (int i=a-1; i > 0; i--){
+        for (int i=intArray.length-1; i > 0; i--){
             System.out.print(intArray[i]+" ");
         }
     }

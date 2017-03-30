@@ -15,9 +15,7 @@ public class PutNumbers {
         for(int i = 0; i < a; i++){
             list.add(i);
         }
-        /*for(int i = 0; i < a; i++){
-            System.out.println(list.get(i));
-        }*/
+
         System.out.println("You can enter set of numbers and get sum in the end; To stop, please enter \"Exit\"");
         System.out.println(" ");
         Scanner scanner = new Scanner(System.in);
